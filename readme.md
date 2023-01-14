@@ -57,7 +57,7 @@ The outliers in the dataset showed justifiable behaviour. The outliers were eith
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Harshad Savle > | Keen Learner | Business Analyst | Data Science enthusiast | Machine Learning Enthusiast
+< Harshad Savle > | Keen Learner | Data Science Enthusiast | Machine Learning Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
